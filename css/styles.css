@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #ACA39B !important;
+    color: #ffffff !important;
+}
+.navbar-brand, .nav-link {
+    color: #ffffff !important;
+}
+.jumbotron {
+    background: url('../img/background.jpg');
+    background-size: cover;
+    color: #ffffff;
+    position: relative;
+    z-index: 10;
+}
+.btn-primary {
+    background-color: #ACA39B !important;
+    border-color: #ACA39B !important;
+}
+.overlay-black {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.download-section {
+    /* background-color: #ACA39B; */
+    background: url('../img/background.jpg');
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #fff;
+}
+.margin-top-lg {
+    margin-top: 20px;
+}
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
